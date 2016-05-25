@@ -1,0 +1,20 @@
+{
+  "name": "bs_boilerplate",
+  "version": "1.0.0",
+  "description": "browsersync + sass boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not specified yet"
+  },
+  "author": "mocana",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  }
+}
